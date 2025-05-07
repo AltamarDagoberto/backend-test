@@ -14,8 +14,8 @@ Docker (opcional, si se requiere para la ejecución de contenedores).
 IDE de tu preferencia (como Visual Studio Code, IntelliJ IDEA, etc.).
 
 Clonar el Repositorio
-- git clone https://github.com/tu-usuario/backend-microservices.git
-cd backend-microservices
+- git clone https://github.com/AltamarDagoberto/backend-test.git
+
 
 # Ejecutar los Servicios Localmente
 #### 1) Product Service:
